@@ -1,7 +1,7 @@
 # Saar
 
 
-- In this project, the PCB of a smartphone-controlled balloon is designed and the corresponding firmware is developed.
+- In this project, the **_PCB_** of a **smartphone-controlled balloon** is designed and the corresponding **_firmware_** is developed.
 >     - The PCB is designed in Altium Designer Software. 
 >     - A discrete PID controller is developed and implemented. 
 
