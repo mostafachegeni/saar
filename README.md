@@ -12,12 +12,12 @@
 >       the firmware is implemented on ATmega328 using C/C++ in Arduino IDE. 
 
 >     Version 2: 
->     This version is based on TI BLE IC CC2541. Additionally, 
->     the firmware is implemented on CC2541 using C in IAR Embedded Workbench. 
+>       This version is based on TI BLE IC CC2541. Additionally, 
+>       the firmware is implemented on CC2541 using C in IAR Embedded Workbench. 
 
 >     Version 3: 
->     This version is based on Nordic BLE IC nRF51822 and motion sensor MPU9250. Additionally, 
->     the firmware is implemented on nRF51822 using C in Keil µVision IDE. 
+>       This version is based on Nordic BLE IC nRF51822 and motion sensor MPU9250. Additionally, 
+>       the firmware is implemented on nRF51822 using C in Keil µVision IDE. 
 
 -----------------------------------------------------
 # Version 1:
